@@ -1,4 +1,4 @@
-# Screenshots of the App
+# Map Location and Weather Data App
 
 This app was an assignment to utilize location services to provide map directions and weather data to the user.
 
